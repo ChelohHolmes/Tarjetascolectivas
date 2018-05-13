@@ -13,7 +13,7 @@ import com.squareup.picasso.Picasso;
 import java.util.ArrayList;
 
 public class adapter  extends BaseAdapter{
-    public ArrayList<tarjeta> ListaArreglo;
+    public ArrayList<tarjetero> ListaArreglo;
     Context context;
 
     @Override
@@ -35,7 +35,7 @@ public class adapter  extends BaseAdapter{
     public View getView(int i, View view, ViewGroup viewGroup) {
         LayoutInflater inflate;
         inflate = LayoutInflater.from(context);
-        View v = inflate.inflate(R.layout.tarjetero, null);
+        View v = inflate.inflate(R.layout.tarjeta, null);
         TextView nombre = (TextView) v.findViewById(R.id.Nombre);
         TextView edad = (TextView) v.findViewById(R.id.Edad);
         TextView descripion = (TextView) v.findViewById(R.id.Descripcion);

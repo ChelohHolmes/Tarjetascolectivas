@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
         adapter buenas = new adapter();
         datos noches = new datos();
         buenas.context=this;
-        buenas.ListaArreglo=noches.showAll();
+        buenas.ListaArreglo = noches.showAll();
         Jorge.setAdapter(buenas);
     }
 
