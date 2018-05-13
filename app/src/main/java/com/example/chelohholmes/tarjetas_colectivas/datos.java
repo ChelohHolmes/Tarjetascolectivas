@@ -30,7 +30,7 @@ public class datos {
 
         dos.Nombre = "Waterguy";
         dos.Edad = "12";
-        dos.Descripcion = "I mean, mee too.";
+        dos.Descripcion = "I mean, me too.";
         dos.Imagen = ("http://i0.kym-cdn.com/entries/icons/original/000/023/598/Waterguy_irl.jpg");
         dos.ID=1;
 
@@ -58,16 +58,16 @@ public class datos {
         seis.Imagen = ("https://thumb9.shutterstock.com/display_pic_with_logo/698308/567772042/stock-photo-headshot-of-successful-smiling-cheerful-african-american-businessman-executive-stylish-company-567772042.jpg");
         seis.ID=5;
 
-        siete.Nombre = "Puffle";
-        siete.Edad = "Amarillo";
-        siete.Descripcion = "Es artístico.";
-        siete.Imagen = ("https://vignette.wikia.nocookie.net/club-penguin-rewritten/images/f/f3/Yellowpuffleold.png/revision/latest/scale-to-width-down/284");
+        siete.Nombre = "Duke";
+        siete.Edad = "Tres años perro";
+        siete.Descripcion = "Es un perro.";
+        siete.Imagen = ("https://thumb1.shutterstock.com/display_pic_with_logo/4305748/609815726/stock-photo-happy-curious-dog-mixed-breed-isolated-on-a-colorful-background-609815726.jpg");
         siete.ID=6;
 
-        ocho.Nombre = "Puffle";
-        ocho.Edad = "Blanco";
-        ocho.Descripcion = "Es frío.";
-        ocho.Imagen = ("https://vignette.wikia.nocookie.net/club-penguin-rewritten/images/3/3d/White_Puffle.png/revision/latest/scale-to-width-down/283");
+        ocho.Nombre = "Andrés";
+        ocho.Edad = "21";
+        ocho.Descripcion = "Tiene una boy band.";
+        ocho.Imagen = ("https://thumb1.shutterstock.com/display_pic_with_logo/2154986/769286080/stock-photo-a-studio-portrait-of-a-young-asian-man-making-a-confident-smile-769286080.jpg");
         ocho.ID=7;
 
         nueve.Nombre = "José";
